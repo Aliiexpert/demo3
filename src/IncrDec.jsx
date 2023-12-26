@@ -5,10 +5,11 @@ const IncrDec = () => {
         <>
             <div className="main-div">
                 <div className="center-div">
-                    <h1>0 </h1>
+                    <h2>0 </h2>
                     <div className="btn-div">
                         <button>INCREM</button>
                         <button>DECREM</button>
+
                     </div>
                 </div>
             </div>
